@@ -1,0 +1,47 @@
+in front of
+behind
+next to
+in the back of
+at the top of
+on top of
+at the back of
+at the end of
+to the side of
+on the far right of
+on the far left of
+between
+across from
+along
+around
+outside
+near
+beside
+under
+underneath
+above
+furthest from
+farthest from
+furthest
+farthest
+on the right of
+on the left of
+to the left of
+to the right of
+at the right side of
+at the left side of
+in the middle of
+nearest to
+closest to
+left
+right
+top
+bottom
+middle
+rightmost
+leftmost
+topmost
+bottommost
+top left
+top right
+bottom left
+bottom right
